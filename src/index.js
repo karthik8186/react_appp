@@ -1,4 +1,4 @@
-
-  import Kouter from "./E-commerce/add1.js"
+import Kouter from "./E-commerce/add1.js"
 import  ReactDOM  from "react-dom";
-ReactDOM.render(<Kouter/>,document.getElementById("root"))
+import React from "react";
+ReactDOM.render(<Kouter/>,document.getElementById("root"));
